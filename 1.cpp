@@ -15,7 +15,7 @@ int main()
 	}
 	else
 	{
-		while(1)
+		while(2)
 		{
 			cout<<"Hello World!"<<endl;
 		}
